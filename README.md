@@ -71,7 +71,6 @@ This dashboard serves as a decision-support tool for businesses and analysts loo
 
 **Karthikeya**  
 Data Analyst | Python • Power BI • SQL  
-[LinkedIn](#) • [GitHub](#) • [Portfolio](#)
 
 ---
 
